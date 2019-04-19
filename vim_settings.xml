@@ -1,0 +1,35 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/myproject/elasticsearch-demo/src/test/java/com/elasticsearch/demo/ElasticsearchTest.java" timestamp="1555655427750">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+      </file>
+      <file name="E:/myproject/elasticsearch-demo/src/main/java/com/elasticsearch/model/Item.java" timestamp="1555654804859">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
