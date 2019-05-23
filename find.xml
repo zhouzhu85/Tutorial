@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
-    <option name="SEARCH_SCOPE" value="global" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -14,5 +12,7 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
