@@ -1,5 +1,0 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="NewDir">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-</keymap>
