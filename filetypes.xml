@@ -4,6 +4,7 @@
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
