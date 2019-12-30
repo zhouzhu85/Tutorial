@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authorizing" />
+      <item value="Authentication" />
+      <item value="Authorization" />
       <item value="minus Days" />
       <item value="current" />
       <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL" />
@@ -13,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
