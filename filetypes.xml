@@ -5,6 +5,8 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
     </extensionMap>
   </component>
 </application>
