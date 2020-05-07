@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors?" />
+      <item value="Please consider switching to the bundled Java runtime that is better suited for the IDE (your current Java runtime is 1.8.0_161-b12 by Oracle Corporation)." />
+      <item value="name" />
       <item value="Authorizing" />
       <item value="Authentication" />
       <item value="Authorization" />
@@ -10,14 +13,13 @@
       <item value="None of the configured nodes are available" />
       <item value="display" />
       <item value="JRebel trial has ended Your trial has expired. The redeploys are back." />
-      <item value="Please consider switching to the bundled Java runtime that is better suited for the IDE (your current Java runtime is 1.8.0_161-b12 by Oracle Corporation)." />
       <item value="Response Result" />
       <item value="delete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
