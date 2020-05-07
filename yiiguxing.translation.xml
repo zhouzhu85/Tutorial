@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Plugin Error: Plugin &quot;FindBugs-IDEA&quot; is incompatible (marked as broken)." />
       <item value="Please consider switching to the bundled Java runtime that is better suited for the IDE (your current Java runtime is 1.8.0_161-b12 by Oracle Corporation)." />
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors?" />
       <item value="name" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
