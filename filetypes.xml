@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
     </extensionMap>
