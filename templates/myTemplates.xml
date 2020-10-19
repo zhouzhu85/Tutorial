@@ -1,0 +1,7 @@
+<templateSet group="myTemplates">
+  <template name="*" value=" *&#10; * @author liuchonglei&#10; * @date $date$&#10; * @param $params$ &#10; * @return $return$&#10; */" description="fangfamuban" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

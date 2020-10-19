@@ -1,0 +1,6 @@
+<application>
+  <component name="ArchetypeCatalogSettings">
+    <option name="skipRepository" value="true" />
+    <archetype-catalog>http://172.16.8.52:8081/repository/maven-releases/archetype-catalog.xml</archetype-catalog>
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<templateSet group="Zen HTML">
+  <template name="select" value="&lt;select name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;&gt;$END$&lt;/select&gt;" description="&lt;select name=&quot;...&quot; id=&quot;...&quot;&gt;...&lt;/select&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

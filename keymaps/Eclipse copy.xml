@@ -1,0 +1,8 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+</keymap>
