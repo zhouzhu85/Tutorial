@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The number of object passed must be even but was" />
       <item value="Index Query" />
       <item value="Unsatisfied dependency expressed through field" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
@@ -9,14 +10,13 @@
       <item value="Total" />
       <item value="Native Search Query Builder" />
       <item value="Bool Query Builder" />
-      <item value="The number of object passed must be even but was" />
       <item value="Repository" />
       <item value="Cannot construct instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
