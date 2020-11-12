@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="span" />
       <item value="Fielddata is disabled on text fields by default. Set fielddata=true on [areaName] in order to load fielddata in memory by uninverting the inverted index. Note that this can however use significant memory. Alternatively use a keyword field instead.]; }] with root cause java.lang.IllegalArgumentException: Fielddata is disabled on text fields by default. Set fielddata=true on [areaName] in order to load fielddata in memory by uninverting the inverted" />
       <item value="Fielddata is disabled on text fields by default. Set fielddata=true on [areaName] in order to load fielddata in memory by uninverting the inverted index. Note that this can however use significant memory" />
       <item value="Alternatively use a keyword field instead." />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
