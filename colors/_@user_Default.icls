@@ -4,7 +4,7 @@
     <property name="created">2019-01-18T09:11:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-10-24T11:21:00</property>
+    <property name="modified">2020-11-19T16:16:03</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -17,10 +17,8 @@
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <colors>
-    <option name="FILESTATUS_COPIED" value="8f9d6a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="8f9d6a" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
   </colors>
 </scheme>
