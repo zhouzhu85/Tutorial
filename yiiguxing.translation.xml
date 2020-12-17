@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="integer overflow" />
+      <item value="* Returns the value of the {@code long} argument; * throwing an exception if the value overflows an {@code int}." />
       <item value="QueryPhaseExecutionException[Result window is too large, from + size must be less than or equal to: [10000] but was [20000]. See the scroll api for a more efficient way to request large data sets. This limit can be set by changing the [index.max_result_window] index level setting.]; }{[2A6KHfAyRLinx4GREYkSGA][hfzy_app_search_shop_house][3]: RemoteTransportException[[node-45][172.16.8.45:9300][indices:data/read/search[phase/dfs]]]; nested: QueryPhaseExecutionException[Result window is too large, from + size must be less than or equal to: [10000] but was [20000]. See the scroll api for a more efficient way to request large data sets. This limit can be set by changing the [index.max_result_window] index level setting.]; }{[2A6KHfAyRLinx4GREYkSGA][hfzy_app_search_shop_house][4]: RemoteTransportException[[node-45][172.16.8.45:9300][indices:data/read/search[phase/dfs]]]; nested: QueryPhaseExecutionException[Result window is too large, from + size must be less than or equal to: [10000] but was [20000]. See the scroll api for a more efficient way to request large data sets. This limit can be set by changing the [index.max_result_window] index level setting.]; }] with root cause org.elasticsearch.search.query.QueryPhaseExecutionException: Result window is too large, from + size must be less than or equal to: [10000] but was [20000]. See the scroll api for a more efficient way to request large data sets. This limit can be set by changing the [index.max_result_window] index level setting." />
       <item value="zero-based page index." />
       <item value="Concurrent Modification Exception" />
@@ -35,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="41" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
