@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Moth" />
+      <item value="get Browse From Moth" />
       <item value="Fielddata is disabled on text fields by default. Set fielddata=true on [houseName] in order to load fielddata in memory by uninverting the inverted index. Note that this can however use significant memory. Alternatively use a keyword field instead." />
       <item value="Alternatively use a keyword field instead" />
       <item value="integer overflow" />
@@ -39,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="45" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
